@@ -3,18 +3,18 @@ An online clothing store built with the MERN stack (MongoDB, Express, React, Nod
 
 ## ✨ Features  
 
-   User Features:
+   ➣ User Features:
 
-      Browse and filter products (clothing items).
-      Add products to a shopping cart.
-      Checkout and make payments.
-      User authentication and profile management.
+      -Browse and filter products (clothing items).
+      -Add products to a shopping cart.
+      -Checkout and make payments.
+      -User authentication and profile management.
       
-   Admin Features:
+   ➣ Admin Features:
 
-      Add, update, or delete products.
-      View all placed orders and order details.
-      Manage user accounts.
+      -Add, update, or delete products.
+      -View all placed orders and order details.
+      -Manage user accounts.
 
 
 ## About
