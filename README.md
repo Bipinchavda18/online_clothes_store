@@ -1,5 +1,5 @@
 # 🛍 Online Clothing Store  
-An **Online Clothing Store** is a web application that allows users to browse, search, and purchase clothing items online. This project is built with React, Node.js, Express, MongoDB and features a responsive and user-friendly interface, with my project partner in university.
+An online clothing store built with the MERN stack (MongoDB, Express, React, Node.js). This project allows users to browse clothing items, add them to a cart, and make purchases. It also provides admin functionality to manage products, view orders, and more.
 
 ## ✨ Features  
 ✅ **User Authentication** – Sign up, login, and manage profiles  
