@@ -10,6 +10,20 @@ An online clothing store built with the MERN stack (MongoDB, Express, React, Nod
 ✅ **Order Management** – Track past and current orders  
 ✅ **Admin Dashboard** – Manage products, orders, and users  
 
+## About
+This is a full-stack application designed to simulate a real-world online clothing store. Built with the MERN stack, this project allows users to:
+
+View products (clothing items).
+Add items to their cart.
+Checkout and make purchases.
+Manage orders and view past purchases.
+As an admin, users can:
+
+Add, update, and delete products.
+View all orders placed.
+The project was developed as a group assignment and includes both front-end and back-end functionality.
+
+
 ## 🛠 Tech Stack  
 - **Frontend:** React, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
